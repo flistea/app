@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Header*/
+img.uoc {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#storage {
+	display:none
+}
+	
+
+/* Student Nav icons */
+.office {
+      background-color: #d97540;
+    }
+.my_pages {
+      background-color: #46884d;
+    }
+.library {
+      background-color: #4a4e81;
+    }
+.student_news {
+      background-color: #6ebce3;
+    }
+.study_skills {
+      background-color: #3883a9;
+    }
+.sonar {
+      background-color: #ffb85d;
+    }
+.student_handbook {
+      background-color: #94529f;
+    }
+.support_me {
+      background-color: #b64242;
+    }
+.ithelp {
+	background-color: #0E541A;
+}
+.hrself {
+	background-color: #29B3D6;
+}
+.room {
+	background-color: #6BD1B6;
+}
+.comp {
+	background-color:#999;
+}
+.show {
+	background-color:#F90;
+}
+.og {
+	background-color:#66C;
+}
+
+/* Maps */
+ #map {
+	 height:91vh; 
+	 width: 98vw;
+	 } 
+	  #goCenterUI, #setCenterUI {
+        background-color: #fff;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        box-shadow: 0 2px 6px rgba(0,0,0,.3);
+        cursor: pointer;
+        float: left;
+        margin-bottom: 22px;
+        text-align: center;
+      }
+      #goCenterText, #setCenterText {
+        color: rgb(25,25,25);
+        font-family: Roboto,Arial,sans-serif;
+        font-size: 15px;
+        line-height: 25px;
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+      #setCenterUI {
+        margin-left: 12px;
+      }
+ #brcmap {
+	 height:91vh; 
+	 width: 98vw;
+	 } 
+ #bocmap {
+     height:91vh; 
+	 width: 98vw;
+
+}
+ 
